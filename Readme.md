@@ -1,4 +1,4 @@
-```
+```bash
 #!/bin/bash
 yum install git -y
 yum install gcc -y
